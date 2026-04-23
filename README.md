@@ -35,11 +35,6 @@ Enterprise-level data transformation tool developed during my internship to ensu
 
 ---
 
-### 📈 GitHub Stats
-![Berk's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkakidil9&show_icons=true&theme=dark)
-
----
-
 ### 📫 How to reach me:
 * **LinkedIn:** [linkedin.com/in/berkakidil](https://linkedin.com/in/berkakidil)
 * **Email:** [berkakidil9@gmail.com](mailto:berkakidil9@gmail.com)
