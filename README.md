@@ -10,16 +10,14 @@ My main interests include full-stack development, backend architecture, business
 
 ## 🛠 Technical Skills
 
-**Programming Languages:** Java, Python, JavaScript, TypeScript
-**Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, MVC Architecture, Software Design Patterns, Asynchronous Programming
-
-**Frontend Development:** React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Design
-**Backend Development:** Spring Boot, Node.js, Express.js, Django, RESTful APIs, Authentication & Authorization (JWT, OAuth 2.0)
-
-**Testing & QA:** Unit & Integration Testing, Jest, Django Testing Framework, Supertest, Playwright
-**Database & Storage:** PostgreSQL, MySQL, Redis, Cloudflare R2, Neon
-**AI-Assisted Development:** ChatGPT, Gemini, Cursor, Codex, debugging, documentation, code review, refactoring
-**Dev Tools:** Git, GitHub, Docker, Apache Maven, Postman, Render, CI/CD Basics
+- **Programming Languages:** Java, Python, JavaScript, TypeScript
+- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, MVC Architecture, Software Design Patterns, Asynchronous Programming
+- **Frontend Development:** React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Design
+- **Backend Development:** Spring Boot, Node.js, Express.js, Django, RESTful APIs, Authentication & Authorization (JWT, OAuth 2.0)
+- **Testing & QA:** Unit & Integration Testing, Jest, Django Testing Framework, Supertest, Playwright
+- **Database & Storage:** PostgreSQL, MySQL, Redis, Cloudflare R2, Neon
+- **AI-Assisted Development:** ChatGPT, Gemini, Cursor, Codex, debugging, documentation, code review, refactoring
+- **Dev Tools:** Git, GitHub, Docker, Apache Maven, Postman, Render, CI/CD Basics
 
 ---
 
