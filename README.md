@@ -60,5 +60,5 @@ Integrated Apache POI for Excel file processing, JAXB for XML serialization/dese
 
 ## 📫 Contact
 
-**LinkedIn:** linkedin.com/in/berkakidil
+**LinkedIn:** https://www.linkedin.com/in/berkakidil/
 **Email:** [berkakidil9@gmail.com](mailto:berkakidil9@gmail.com)
