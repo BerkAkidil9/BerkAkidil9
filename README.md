@@ -1,62 +1,191 @@
-# Hi, I'm Berk Akidil! 👋
+# Hi, I'm Berk Akidil 👋
 
-**Software Engineer | Full-Stack Developer**
+### Computer Science Graduate | Full-Stack Software Developer
 
-I am a Software Engineering graduate focused on building secure, scalable, and data-driven full-stack applications. I work with modern web technologies across frontend, backend, databases, testing, and deployment workflows.
+I am a Computer Science graduate from Özyeğin University and a full-stack software developer focused on building secure, scalable, and business-oriented applications.
 
-My main interests include full-stack development, backend architecture, business workflow automation, data integration, and secure system design.
+I develop end-to-end software systems using **Python, JavaScript, TypeScript, and Java**, with experience across frontend development, backend architecture, relational databases, testing, automation, and production deployment.
+
+My primary interests include multi-tenant applications, backend architecture, business workflow automation, data integration, role-based systems, and secure application design.
 
 ---
 
 ## 🛠 Technical Skills
 
-- **Programming Languages:** Java, Python, JavaScript, TypeScript
-- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, MVC Architecture, Software Design Patterns, Asynchronous Programming
-- **Frontend Development:** React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Design
-- **Backend Development:** Spring Boot, Node.js, Express.js, Django, RESTful APIs, Authentication & Authorization (JWT, OAuth 2.0)
-- **Testing & QA:** Unit & Integration Testing, Jest, Django Testing Framework, Supertest, Playwright
-- **Database & Storage:** PostgreSQL, MySQL, Redis, Cloudflare R2, Neon
-- **AI-Assisted Development:** ChatGPT, Gemini, Cursor, Codex, debugging, documentation, code review, refactoring
-- **Dev Tools:** Git, GitHub, Docker, Apache Maven, Postman, Render, CI/CD Basics
+### Languages
+
+`Python` `JavaScript` `TypeScript` `Java` `SQL`
+
+### Frontend
+
+`React.js` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
+
+`Redux Toolkit` `Zustand` `TanStack Query` `Responsive Design`
+
+### Backend
+
+`Django` `Node.js` `Express.js` `Spring Boot` `FastAPI`
+
+`RESTful APIs` `JWT` `OAuth 2.0` `Role-Based Access Control`
+
+### Databases & Storage
+
+`PostgreSQL` `MySQL` `Redis` `Neon` `Cloudflare R2`
+
+### Testing
+
+`Django Testing Framework` `Jest` `Vitest` `Supertest` `Playwright`
+
+`Unit Testing` `Integration Testing` `End-to-End Testing`
+
+### Tools & Deployment
+
+`Git` `GitHub` `Docker` `Apache Maven` `Postman`
+
+`OpenAPI / Swagger` `GitHub Actions` `Render`
+
+### Core Concepts
+
+`Object-Oriented Programming` `Data Structures & Algorithms`
+
+`MVC Architecture` `Software Design Patterns`
+
+`Asynchronous Programming` `Clean and Maintainable Code`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Multi-Tenant CRM Platform | Python, Django, PostgreSQL, Tailwind CSS
+### Darkenyas CRM — Multi-Tenant CRM Platform
 
-Developed a full-stack, multi-tenant CRM platform with Role-Based Access Control (RBAC) for Administrators, Organisors, and Agents, supporting secure data access across organizations, agents, and leads.
+**Python · Django · PostgreSQL · Tailwind CSS**
 
-**Key Features:**
-Built core CRM modules for lead and agent management, products and stock, orders, finance reporting, task management, notifications, and activity logs.
+A full-stack, multi-tenant CRM platform designed to manage organizational workflows while securely isolating data across organization owners, agents, and administrators.
 
-**Technical Integration:**
-Created custom Django Management Commands for automated reminders and backend operations, integrated Gmail API for transactional emails, configured Cloudflare R2 for scalable media storage, and used Django’s testing framework to validate core CRM workflows.
+#### Key Features
+
+- Multi-tenant architecture with organization-level data isolation
+- Role-Based Access Control for Administrators, Organization Owners, and Agents
+- Lead, agent, organization owner, product, stock, and order management
+- Product categories, price history, stock movements, discounts, and stock alerts
+- Automatic stock reduction and restoration during order operations
+- Finance dashboards for earnings, costs, and profit analysis
+- Task assignment, notifications, activity logs, and lead follow-up workflows
+- Scheduled reminders and automated operations using custom Django management commands
+- Core workflow validation using Django's testing framework
+
+#### Infrastructure & Integrations
+
+- PostgreSQL for relational data management
+- Gmail API for transactional email notifications
+- Cloudflare R2 for persistent media storage
+- Scheduled cron jobs for reminders and backend automation
+- Render configuration for production deployment
+
+**Repository:** `Add repository link`  
+**Live Demo:** `Add live demo link`
 
 ---
 
-### 🔹 Swim Center Management System | Node.js, Express.js, React, PostgreSQL, Bootstrap
+### Swim Center — Multi-Role Management Platform
 
-Developed a full-stack swimming pool management system with a multi-role architecture for Admin, Member, Doctor, Staff, and Coach users, designed to automate facility operations, reservations, payments, and health verification workflows.
+**React · Node.js · Express.js · PostgreSQL · Bootstrap**
 
-**Key Features:**
-Built role-specific dashboards enabling members to purchase packages, make reservations, complete Stripe payments, and generate QR check-ins; doctors to review medical eligibility; admins to manage user verification, pools, sessions, and feedback; staff to verify QR-based check-ins; and coaches to track member swimming ability.
+A full-stack swimming facility management platform designed to digitize reservations, payments, medical verification, attendance, and facility operations.
 
-**Technical Integration:**
-Integrated Google OAuth 2.0, email verification, Gmail API-based notifications, Leaflet/react-leaflet for interactive facility mapping, Cloudflare R2 with Worker Proxy for production file storage, and a testing setup using Jest, Supertest, and Playwright.
+#### User Roles
+
+- **Members:** Purchase packages, reserve sessions, make payments, submit feedback, and generate QR check-in codes
+- **Doctors:** Review medical information and approve, reject, or request additional documentation
+- **Administrators:** Manage users, pools, sessions, verification processes, feedback, and facility operations
+- **Staff:** Verify QR-based member check-ins
+- **Coaches:** Track and manage member swimming abilities
+
+#### Key Features
+
+- Role-specific dashboards and authorization workflows
+- Stripe payment integration
+- Google OAuth 2.0 authentication
+- Email verification and password reset workflows
+- Health report submission and medical eligibility review
+- Automated health report reminders
+- QR-based facility check-in system
+- Interactive facility mapping with Leaflet and react-leaflet
+- Backend, integration, frontend, and end-to-end testing
+
+#### Infrastructure & Integrations
+
+- PostgreSQL for relational data management
+- Cloudflare R2 with Worker Proxy for production file storage
+- Gmail API, Resend, and SMTP fallback for email delivery
+- Render configuration for production deployment
+- Jest, Supertest, Vitest, and Playwright testing setup
+
+**Repository:** `Add repository link`  
+**Live Demo:** `Add live demo link`
 
 ---
 
-### 🔹 Data Integration Tool | Java, Apache POI, JAXB, Java Swing
+### Excel/XML Data Integration Tool
 
-Developed a Java desktop application for bidirectional Excel/XML data conversion to support structured internal data exchange.
+**Java · Java Swing · Apache POI · JAXB · Maven**
 
-**Key Features:**
-Integrated Apache POI for Excel file processing, JAXB for XML serialization/deserialization, and Java Swing for the desktop user interface.
+A Java desktop application developed for bidirectional Excel and XML conversion, supporting structured internal data exchange and reducing manual data transformation.
+
+#### Key Features
+
+- Excel-to-XML and XML-to-Excel conversion
+- Spreadsheet reading and writing using Apache POI
+- XML serialization and deserialization using JAXB
+- Input validation and conversion error handling
+- Management of invoice, customer, and bank information
+- User-friendly desktop interface built with Java Swing
+- Dependency and project management using Apache Maven
+
+**Repository:** `Add repository link`
+
+---
+
+## 💼 Experience Highlights
+
+### Software Developer Intern — CPF Türkiye
+
+Worked on a production-oriented multi-tenant CRM platform using Django and PostgreSQL.
+
+- Implemented organization-level data isolation and role-based access control
+- Developed lead, agent, inventory, order, finance, task, and notification workflows
+- Automated stock operations, email notifications, and scheduled reminders
+- Created analytics dashboards using Django and Chart.js
+- Tested core business workflows using Django's testing framework
+
+### Software Developer Intern — CPF Türkiye
+
+Developed a Java desktop application for bidirectional Excel and XML data conversion.
+
+- Integrated Apache POI for spreadsheet processing
+- Used JAXB for XML serialization and deserialization
+- Built a Java Swing user interface
+- Implemented validation and conversion error handling
+
+---
+
+## 🤖 AI-Assisted Development
+
+I use AI-assisted development tools responsibly to support:
+
+- Debugging and issue analysis
+- Documentation
+- Code review
+- Refactoring
+- Test case generation
+- Technical research
+
+All implementations and technical decisions are manually reviewed and validated.
 
 ---
 
 ## 📫 Contact
 
-**LinkedIn:** [linkedin.com/in/berkakidil](https://www.linkedin.com/in/berkakidil)  
-**Email:** [berkakidil9@gmail.com](mailto:berkakidil9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Berk%20Akidil-blue?style=flat&logo=linkedin)](https://linkedin.com/in/berkakidil)
+
+[![Email](https://img.shields.io/badge/Email-berkakidil9%40gmail.com-red?style=flat&logo=gmail)](mailto:berkakidil9@gmail.com)
