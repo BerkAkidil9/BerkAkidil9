@@ -1,6 +1,6 @@
 # Hi, I'm Berk Akidil 👋
 
-### Computer Science Graduate | Full-Stack Software Developer
+### Software Engineer | Full-Stack Developer
 
 I am a Computer Science graduate from Özyeğin University and a full-stack software developer focused on building secure, scalable, and business-oriented applications.
 
@@ -16,7 +16,7 @@ My primary interests include multi-tenant applications, backend architecture, bu
 
 ### Languages
 
-`Python` `JavaScript` `TypeScript` `Java` `SQL`
+`Python` `JavaScript` `TypeScript` `Java`
 
 ### Frontend
 
@@ -30,7 +30,7 @@ My primary interests include multi-tenant applications, backend architecture, bu
 
 ### Databases, Caching & Storage
 
-`PostgreSQL` `MySQL` `Redis` `Neon` `Cloudflare R2`
+`SQL` `PostgreSQL` `MySQL` `Redis` `Neon` `Cloudflare R2`
 
 ### Testing
 
@@ -57,7 +57,7 @@ My primary interests include multi-tenant applications, backend architecture, bu
 
 **Python · Django · PostgreSQL · Tailwind CSS**
 
-A full-stack, multi-tenant CRM platform designed to manage business workflows while securely isolating data across organizations, organization owners, agents, and administrators.
+A full-stack, multi-tenant CRM platform designed to manage business workflows with secure data isolation between organizations and role-based access for administrators, organization owners, and agents.
 
 #### Highlights
 
@@ -72,8 +72,8 @@ A full-stack, multi-tenant CRM platform designed to manage business workflows wh
 - Configured Cloudflare R2 for persistent media storage and Render for production deployment
 - Tested critical CRM workflows using Django's test framework
 
-**Repository:** `[Add repository link]`  
-**Live Demo:** `[Add live demo link]`
+**Repository:** [View Repository](https://github.com/BerkAkidil9/Crm-Example)  
+**Live Demo:** [View Live Demo](https://darkenyas-crm.onrender.com/)
 
 ---
 
@@ -81,7 +81,7 @@ A full-stack, multi-tenant CRM platform designed to manage business workflows wh
 
 **React · Node.js · Express.js · PostgreSQL · Bootstrap**
 
-A full-stack swimming facility management platform designed to digitize reservations, payments, medical verification, attendance, and facility operations across multiple user roles.
+A full-stack swimming facility management platform designed to digitize reservations, payments, medical verification, QR-based check-ins, and day-to-day facility operations across multiple user roles.
 
 #### Highlights
 
@@ -90,15 +90,15 @@ A full-stack swimming facility management platform designed to digitize reservat
 - Developed medical eligibility workflows for health report submission, review, approval, rejection, and additional documentation requests
 - Implemented Stripe payments, Google OAuth 2.0, email verification, and password reset workflows
 - Added automated health report reminders and email notification fallbacks
-- Built QR-based facility check-in and attendance verification workflows
+- Built QR-based member check-in and staff verification workflows
 - Integrated Leaflet and react-leaflet for interactive facility mapping
 - Configured Cloudflare R2 with a Worker Proxy for production file storage
 - Used Gmail API, Resend, and SMTP fallback mechanisms for email delivery
-- Implemented backend, integration, frontend, and end-to-end testing with Jest, Supertest, Vitest, and Playwright
+- Implemented backend and API testing with Jest and Supertest, frontend testing with Vitest, and end-to-end testing with Playwright
 - Configured Render-based production deployment
 
-**Repository:** `[Add repository link]`  
-**Live Demo:** `[Add live demo link]`
+**Repository:** [View Repository](https://github.com/BerkAkidil9/SwimmingPoolManagementSystem)  
+**Live Demo:** [View Live Demo](https://swimcenter.onrender.com/)
 
 ---
 
@@ -117,8 +117,6 @@ A Java desktop application developed for bidirectional Excel and XML conversion,
 - Supported invoice, customer, and bank information management
 - Designed a desktop user interface using Java Swing
 - Used Apache Maven for dependency management and project structure
-
-**Repository:** `[Add repository link]`
 
 ---
 
